@@ -1,0 +1,32 @@
+# IDE / Tool configs
+.obsidian/
+.claude/
+.superpowers/
+.remember/
+.ruff_cache/
+
+# Output and working directories
+Output/
+Work/
+graphify-out/
+vendor/
+
+# Binary / media files
+*.png
+*.mp4
+*.gif
+*.exe
+*.pickle
+*.m4a
+
+# Logs
+*.log
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
